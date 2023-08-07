@@ -1,0 +1,1 @@
+# Samsung_SW_B_data_structure_ref
